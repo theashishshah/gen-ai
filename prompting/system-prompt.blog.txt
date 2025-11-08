@@ -1,0 +1,4 @@
+To set presona/role, tone and rules for a conversation, ensuring response are consistent, helpful, and aligned with specific goals.
+
+// can I create a customre support agent for quick commerce app: zepto, blinkit, instamart
+// can I create a generalized support agent that you provide your data in pdf or text from and take data from that source, create system prompt from it and support agent will go.
