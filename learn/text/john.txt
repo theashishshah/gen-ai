@@ -1,0 +1,4 @@
+This is a text file written by John. It contains some text that is meaningful to John, but may not be meaningful to others. It is a simple text file with no formatting or other special features. It is just a plain text file with some text in it.
+
+
+John is a software engineer who lives in New York. He has a pet cat named Luna and enjoys playing chess in his free time. He is a fan of the New York Yankees and likes to watch baseball games at Yankee Stadium.
